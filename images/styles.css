@@ -13,4 +13,9 @@ body {
 	margin: 10px;
 	padding: 10px;
 	text-decoration: none;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: normal;
+	color: #D6D5D6;
 }
