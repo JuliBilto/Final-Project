@@ -19,11 +19,32 @@
     <li><a href="../interview-riles/">Interview Advice</a></li>
     <li><a href="../about-me.html">About Me</a></li>
     <li><a href="../social-media/">Social Media to Follow</a>  
-    <li><a href="../Books to read /books-to-read.html">Must Read Books</a></li></ul>
-<!-- TemplateBeginEditable name="EditRegion3" -->
-<p>This is Placeholder</p>
-<p>&nbsp;</p>
-<p>&nbsp; </p>
-<!-- TemplateEndEditable --></div>
+    <li><a href="../Books to read /books-to-read.html">Must Read Books</a></li>
+  </ul>
+  <table>
+    <tr>
+      <td><h2>Career Paths</h2>
+        <ul>
+          <li>Broadcastng</li>
+          <li>Public Relations</li>
+          <li>Journalism</li>
+          <li>Advertising</li>
+        </ul>
+        <h2>Outfit Advice</h2>
+        <ul>
+          <li>For the Interview</li>
+          <li>For the Internship </li>
+        </ul>
+        <h2>Social Media to Follow</h2>
+        <ul>
+          <li>Twitter</li>
+          <li>Facebook</li>
+          <li>Blogs</li>
+      </ul></td>
+      <td><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
 </body>
 </html>
