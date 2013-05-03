@@ -11,40 +11,17 @@
 <link href="../images/styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+<img src="../images/imgres.jpeg" width="950" height="150" />
 <div class="wrapper">
-  <img src="../images/imgres.jpeg" width="950" height="150" alt="huigyutdrte" />
   <ul class="navigation">
     <li><a href="../index.html">Home</a></li>
-    <li><a href="../career-paths/">Career Paths</a></li>
-    <li><a href="../interview-riles/">Interview Advice</a></li>
+     <li><a href="../about-me.html">About Me</a></li>
+    <li><a href="../career-paths/overview-of-careers.html">Career Paths</a></li>
+    <li><a href="../interview-rules/the-interview.html">Interview Advice</a></li>
     <li><a href="../about-me.html">About Me</a></li>
-    <li><a href="../social-media/">Social Media to Follow</a>  
     <li><a href="../Books to read /books-to-read.html">Must Read Books</a></li>
+    <p id="title">Communication Careers </p>
   </ul>
-  <table>
-    <tr>
-      <td><h2>Career Paths</h2>
-        <ul>
-          <li>Broadcastng</li>
-          <li>Public Relations</li>
-          <li>Journalism</li>
-          <li>Advertising</li>
-        </ul>
-        <h2>Outfit Advice</h2>
-        <ul>
-          <li>For the Interview</li>
-          <li>For the Internship </li>
-        </ul>
-        <h2>Social Media to Follow</h2>
-        <ul>
-          <li>Twitter</li>
-          <li>Facebook</li>
-          <li>Blogs</li>
-      </ul></td>
-      <td><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
-    </tr>
-  </table>
-  <p>&nbsp;</p>
-</div>
+  <!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></div>
 </body>
 </html>
