@@ -1,20 +1,17 @@
-.wrapper {
-	background-color: #80F2E7;
-	padding-top: 10px;
-	padding-right: 30px;
-	padding-bottom: 10px;
-	padding-left: 30px;
-	background-image: none;
+#title {
 	font-family: Arial, Helvetica, sans-serif;
-	font-weight: normal;
-	background-attachment: scroll;
-	position: absolute;
-	margin: 10px;
-	left: 12px;
-	top: 173px;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: 900;
+	letter-spacing: .2em;
 }
 body {
 	background-color: #035AA6;
+}
+.wrapper {
+	margin-right: auto;
+	margin-left: auto;
+	width: 950px;
 }
 .wrapper .navigation li {
 	display: inline;
@@ -25,6 +22,5 @@ body {
 	font-size: 18px;
 	font-style: italic;
 	font-weight: normal;
-	color: #D6D5D6;
 	background-color: #8085E7;
 }
