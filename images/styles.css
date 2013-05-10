@@ -1,17 +1,23 @@
 #title {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 24px;
+	font-size: 36px;
 	font-style: italic;
 	font-weight: 900;
 	letter-spacing: .2em;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
 body {
-	background-color: #035AA6;
+	background-color: #093C4A;
+	color: #093C4A;
 }
 .wrapper {
 	margin-right: auto;
 	margin-left: auto;
 	width: 950px;
+	background-color: #95C8D6;
 }
 .wrapper .navigation li {
 	display: inline;
@@ -22,5 +28,6 @@ body {
 	font-size: 18px;
 	font-style: italic;
 	font-weight: normal;
-	background-color: #8085E7;
+	background-color: #FFFFFF;
+	color: #A3A692;
 }
